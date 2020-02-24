@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>English Literature &#8211; O and A Level Notes</title>
+	<atom:link href="/category/a-level/english-literature/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Notes, Tips &#38; Revision Guides for O and A Level Subjects</description>
+	<lastBuildDate>Tue, 18 Feb 2020 06:56:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/03/cropped-O-A-Level-Notes-1-32x32.png</url>
+	<title>English Literature &#8211; O and A Level Notes</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Best English Literature AS and A Level Notes</title>
+		<link>/english-literature-as-and-a-level-notes/</link>
+				<comments>/english-literature-as-and-a-level-notes/#comments</comments>
+				<pubDate>Wed, 08 Apr 2015 05:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[O &#38; A Level Notes]]></dc:creator>
+				<category><![CDATA[English Literature]]></category>
+
+		<guid isPermaLink="false">/?p=3310</guid>
+				<description><![CDATA[<p>The Best English Literature AS and A Level Notes, Revision Guides, Tips and Websites compiled from all around the world at one place for your ease.</p>
+<p>The post <a rel="nofollow" href="/english-literature-as-and-a-level-notes/">The Best English Literature AS and A Level Notes</a> appeared first on <a rel="nofollow" href="/">O and A Level Notes</a>.</p>
+]]></description>
+						<wfw:commentRss>/english-literature-as-and-a-level-notes/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+							</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced (Page is feed) 
+
+Served from: www.oalevelnotes.com @ 2020-02-24 18:25:03 by W3 Total Cache
+-->

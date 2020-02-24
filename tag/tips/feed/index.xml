@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tips &#8211; O and A Level Notes</title>
+	<atom:link href="/tag/tips/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Notes, Tips &#38; Revision Guides for O and A Level Subjects</description>
+	<lastBuildDate>Mon, 24 Feb 2020 04:26:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/03/cropped-O-A-Level-Notes-1-32x32.png</url>
+	<title>Tips &#8211; O and A Level Notes</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Level Chemistry Paper 5 Tips</title>
+		<link>/a-level-chemistry-paper-5-tips/</link>
+				<comments>/a-level-chemistry-paper-5-tips/#comments</comments>
+				<pubDate>Wed, 13 May 2015 19:19:31 +0000</pubDate>
+		<dc:creator><![CDATA[O &#38; A Level Notes]]></dc:creator>
+				<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[Tips]]></category>
+
+		<guid isPermaLink="false">/?p=3530</guid>
+				<description><![CDATA[<p>For planning section: 1. When asked to draw a diagram, ALWAYS mention the volume of the apparatus being used. The one most often used is gas syringe. I think it is better to limit the volume of syringe to less than 500 cm3 . Also, the volume of a commonly used small test tube is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/a-level-chemistry-paper-5-tips/">A Level Chemistry Paper 5 Tips</a> appeared first on <a rel="nofollow" href="/">O and A Level Notes</a>.</p>
+]]></description>
+						<wfw:commentRss>/a-level-chemistry-paper-5-tips/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+							</item>
+		<item>
+		<title>O Level Guide and Tips</title>
+		<link>/o-level-guide-and-tips/</link>
+				<comments>/o-level-guide-and-tips/#comments</comments>
+				<pubDate>Mon, 04 May 2015 04:02:06 +0000</pubDate>
+		<dc:creator><![CDATA[O &#38; A Level Notes]]></dc:creator>
+				<category><![CDATA[O Level]]></category>
+		<category><![CDATA[Tips]]></category>
+
+		<guid isPermaLink="false">/?p=3527</guid>
+				<description><![CDATA[<p>Guidance and Tips for Students in O Level or those who are yet to start it.</p>
+<p>The post <a rel="nofollow" href="/o-level-guide-and-tips/">O Level Guide and Tips</a> appeared first on <a rel="nofollow" href="/">O and A Level Notes</a>.</p>
+]]></description>
+						<wfw:commentRss>/o-level-guide-and-tips/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+							</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced (Page is feed) 
+
+Served from: www.oalevelnotes.com @ 2020-02-24 18:23:37 by W3 Total Cache
+-->
